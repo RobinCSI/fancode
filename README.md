@@ -23,18 +23,12 @@ This Movie List and Search App lists movies with their details and also allows u
 
 - Node.js installed on your machine
 - Expo CLI or React Native CLI
-- API Key from The Movie Database (TMDb) (if applicable)
 
 ### Installation
 
 1. Clone the repository: `git clone <repository-url>`
 2. Install dependencies: `npm install`
-3. Set the API keys
-4. Run the app: `npm start`
-
-## Configuration
-
-- Add appropriate TMDb API keys in the 3 files- App.js, Main.js and MovieTile.js (if required).
+3. Run the app: `npm start`
 
 ## Folder Structure
 
